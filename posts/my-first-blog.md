@@ -1,8 +1,9 @@
 ---
-title: "My first blog post"
-slug: "my-first-blog"
+title: My first blog post made in prose.io
+slug: my-first-blog
+published: true
 ---
 
-## Look at the `title` above, it's straight out of the front matter! ↖
+## prose.io is the best idea for a blog
 
-The slug is what's used to navigate/link to this specific post, visible right now in the URL.
+Using prose to edit my blog is one of the best ideas i ever had, it makes it easy to edit file and to publish them :)
