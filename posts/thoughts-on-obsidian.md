@@ -1,7 +1,8 @@
---
+---
 title: thoughts on obsidian
-slug:thoughts-on-obsidian
---
+slug: thoughts-on-obsidian
+published: true
+---
 
 ## Obisian as a tool	
 
